@@ -1,0 +1,5 @@
+class methods which are private must start with an _
+class methods which are protected must start with p_
+
+class variables which are private must start with an _
+class variables which are protected must start with p_

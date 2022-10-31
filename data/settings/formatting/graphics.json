@@ -1,0 +1,10 @@
+{
+  "resolution": {"display_name": "Resolution", "type": "array",
+    "values": [0, 1, 2], "display_values": ["1280x720 (16:9)", "1920x1080 (16:9)", "2560x1440 (16:9)"]},
+  "window_mode": {"display_name": "Fullscreen", "type": "array",
+    "values": [0, 1, 2],"display_values": ["windowed", "borderless", "fullscreen"]},
+  "fps_cap": {"display_name": "Max FPS", "type": "array",
+    "values": [30, 60, 120, 144, 160], "display_values": ["30", "60", "120", "144", "160"]},
+  "vsync": {"display_name": "Vsync", "type": "bool"},
+  "anti_aliasing": {"display_name": "Anti-Aliasing", "type": "bool"}
+}

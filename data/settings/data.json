@@ -1,0 +1,9 @@
+{
+  "graphics": {
+    "resolution": 2,
+    "window_mode": 2,
+    "fps_cap": 2,
+    "vsync": false,
+    "anti_aliasing": false
+  }
+}
